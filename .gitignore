@@ -1,0 +1,6 @@
+minikv
+*.o
+tests/test_kv
+tests/test_kv_asan
+*.db
+*.compact
